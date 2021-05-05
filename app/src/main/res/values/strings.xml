@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ravens Counter</string>
+    <string name="increase_button">Increase</string>
+    <string name="show_result">show result</string>
+    <string name="result">Congratulations!!! You have</string>
+    <string name="result2">ravens</string>
+</resources>
